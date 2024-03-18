@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intl/pt-br/log.md",
+                "file": "pt-br/log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intl/pt-br/log.md",
+                "file": "pt-br/log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intl/pt-br/log.md",
+                "file": "pt-br/log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intl/pt-br/log.md"
+                "file": "pt-br/log.md"
               }
             }
           }
@@ -149,6 +149,14 @@
   "active": "b7126190595025c7",
   "lastOpenFiles": [
     "log.md",
+    "intl/pt-br/log.md",
+    "pt-br/regras.md",
+    "pt-br/recursos.md",
+    "pt-br/r1-log.md",
+    "pt-br/perguntas_frequentes.md",
+    "pt-br/log.md",
+    "pt-br/LEIAME.md",
+    "pt-br",
     "rules.md"
   ]
 }

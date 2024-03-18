@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Dia 0: 18 de março, 2024)
+### Dia 0: 18 de março, 2024
 ##### (Fazendo projeto de testes em c#)
 
 **Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
