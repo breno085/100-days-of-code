@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pt-br/log.md",
+                "file": "log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pt-br/log.md",
+                "file": "log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pt-br/log.md",
+                "file": "log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pt-br/log.md"
+                "file": "log.md"
               }
             }
           }
@@ -148,13 +148,32 @@
   },
   "active": "b7126190595025c7",
   "lastOpenFiles": [
+    "pt-br/log.md",
+    "regras.md",
+    "recursos.md",
+    "r1-log.md",
+    "perguntas_frequentes.md",
     "log.md",
+    "LEIAME.md",
+    "100-days-of-code/rules.md",
+    "100-days-of-code/resources.md",
+    "100-days-of-code/r1-log.md",
+    "100-days-of-code/pt-br/regras.md",
+    "100-days-of-code/pt-br/recursos.md",
+    "100-days-of-code/pt-br/r1-log.md",
+    "100-days-of-code/pt-br/perguntas_frequentes.md",
+    "100-days-of-code/pt-br/log.md",
+    "100-days-of-code/pt-br/LEIAME.md",
+    "100-days-of-code/pt-br",
+    "100-days-of-code/log.md",
+    "100-days-of-code/README.md",
+    "100-days-of-code/FAQ.md",
+    "100-days-of-code",
     "intl/pt-br/log.md",
     "pt-br/regras.md",
     "pt-br/recursos.md",
     "pt-br/r1-log.md",
     "pt-br/perguntas_frequentes.md",
-    "pt-br/log.md",
     "pt-br/LEIAME.md",
     "pt-br",
     "rules.md"
