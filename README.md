@@ -1,16 +1,21 @@
 # 100 Days Of Code - Log - 2024
 
-### Dia 1: 03/04
+### Dia 1: 01/07
+
+##### Construção de aplicativos de console para focar no back-end
 
 **Progresso do dia:** 
-- Fiz o app de console calculadora com ajuda da documentação da microsoft
+- Reorgazinei meu app coding-tracker com as classes em pastas distintas seguindo os princípios da Seperation of Concerns (SoC) e Repository Pattern
+- Criei o app flashcards, configurei a conexão com Dapper e SQL Server, crei as tabelas e os entity models
 
 **Aprendizados:** 
-- Revisão geral do que aprendi até agora com C#, como o menu de interação e seleção, aplicação de princípios básicos de OOP
-- Aprendi sobre "regular expression" e o uso do Regex
+- Princípios da SoC e Repository Pattern
+- Conexão do C# a um banco de dados utilizando Dapper e SQL Server
+- Comandos Query e Non-Query do Dapper
 
 **Link do trabalho:**
-[calculator](https://github.com/breno085/calculator-csharpacademy)
+[coding-tracker](https://github.com/breno085/coding-tracker)
+[flashcards](https://github.com/breno085/flashcards)
 
 ### Dia 2: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)

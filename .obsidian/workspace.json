@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "b7126190595025c7",
   "lastOpenFiles": [
-    "pt-br/log.md",
-    "regras.md",
     "recursos.md",
-    "r1-log.md",
+    "README.md",
+    "regras.md",
     "perguntas_frequentes.md",
+    "pt-br/log.md",
+    "r1-log.md",
     "log.md",
     "LEIAME.md",
     "100-days-of-code/rules.md",
@@ -175,7 +176,6 @@
     "pt-br/r1-log.md",
     "pt-br/perguntas_frequentes.md",
     "pt-br/LEIAME.md",
-    "pt-br",
-    "rules.md"
+    "pt-br"
   ]
 }
