@@ -17,11 +17,21 @@
 [coding-tracker](https://github.com/breno085/coding-tracker)
 [flashcards](https://github.com/breno085/flashcards)
 
-### Dia 2: 30 de fevereiro, 2016 (Exemplo 2)
-##### (me delete ou transforme em comentário)
+### Dia 2: 02/07
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
+##### Construção de aplicativos de console para focar no back-end
 
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
+**Progresso do dia:** 
+- Criei a maior parte dos menus interativos do flashcards
 
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+**Aprendizados:** 
+- Nada novo, só resolvi adiantar um pouco do projeto no pouco tempo que programei hoje
+
+**Objetivos de amanhã:**
+- Obter os dados do usuário e fazer todas as operações de crud
+- Fazer a validação desses dados
+- Adiantar a sessão de estudos do app
+
+**Link do trabalho:**
+[flashcards](https://github.com/breno085/flashcards)
+
