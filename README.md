@@ -35,3 +35,21 @@
 **Link do trabalho:**
 [flashcards](https://github.com/breno085/flashcards)
 
+### Dia 3: 03/07
+
+##### Construção de aplicativos de console para focar no back-end
+
+**Progresso do dia:** 
+- Fiz os insert, view, delete e update para a tabela de stacks
+- Fiz os inserts para a tabela de flashcards de acordo com os inputs do usuário e também inseri vários de uma vez através uma lista de objetos para fazer testes
+
+**Aprendizados:** 
+- Aprendi a fazer os comandos query e non-query (insert, delete, update) do Dapper de forma parametrizada para prevenção de vulneravilidades como sql injection
+
+**Objetivos de amanhã:**
+- Terminar fazer todas as operações de crud da tabela de flashcards
+- Fazer a validação dos dados inseridos pelo usuário
+- Adiantar a sessão de estudos do app
+
+**Link do trabalho:**
+[flashcards](https://github.com/breno085/flashcards)
