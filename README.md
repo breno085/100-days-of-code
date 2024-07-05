@@ -49,7 +49,25 @@
 **Objetivos de amanhã:**
 - Terminar fazer todas as operações de crud da tabela de flashcards
 - Fazer a validação dos dados inseridos pelo usuário
-- Adiantar a sessão de estudos do app
+- Criar a sessão de estudos do app
+
+**Link do trabalho:**
+[flashcards](https://github.com/breno085/flashcards)
+
+### Dia 4: 04/07
+
+##### Construção de aplicativos de console para focar no back-end
+
+**Progresso do dia:** 
+- Terminei de fazer todos os cruds para as tabelas de stacks e flashcards
+- Fiz algumas validações do input do usuário
+
+**Aprendizados:** 
+- Algumas formas mais eficazes de fazer validações de inputs do usuário
+
+**Objetivos de amanhã:**
+- Fazer todo o restante das validações dos dados inseridos pelo usuário
+- Criar a sessão de estudos do app
 
 **Link do trabalho:**
 [flashcards](https://github.com/breno085/flashcards)
