@@ -91,3 +91,19 @@
 
 **Link do trabalho:**
 [flashcards](https://github.com/breno085/flashcards)
+
+### Dia 6: 06/07
+
+##### Flashcards
+
+**Progresso do dia:** 
+- Terminei o projeto!
+
+**Aprendizados:** 
+- Aprendi a fazer um pull request para o projeto que fiz
+
+**Objetivos de amanhã:**
+- Aprender sobre como fazer consumo de API externo 
+
+**Link do trabalho:**
+[flashcards](https://github.com/breno085/flashcards)
