@@ -1,8 +1,10 @@
 # 100 Days Of Code - Log - 2024
 
+##### Construção de aplicativos de console para focar no back-end
+
 ### Dia 1: 01/07
 
-##### Construção de aplicativos de console para focar no back-end
+##### Coding Tracker e Flashcards
 
 **Progresso do dia:** 
 - Reorgazinei meu app coding-tracker com as classes em pastas distintas seguindo os princípios da Seperation of Concerns (SoC) e Repository Pattern
@@ -19,7 +21,7 @@
 
 ### Dia 2: 02/07
 
-##### Construção de aplicativos de console para focar no back-end
+##### Flashcards
 
 **Progresso do dia:** 
 - Criei a maior parte dos menus interativos do flashcards
@@ -37,7 +39,7 @@
 
 ### Dia 3: 03/07
 
-##### Construção de aplicativos de console para focar no back-end
+##### Flashcards
 
 **Progresso do dia:** 
 - Fiz os insert, view, delete e update para a tabela de stacks
@@ -56,7 +58,7 @@
 
 ### Dia 4: 04/07
 
-##### Construção de aplicativos de console para focar no back-end
+##### Flashcards
 
 **Progresso do dia:** 
 - Terminei de fazer todos os cruds para as tabelas de stacks e flashcards
@@ -68,6 +70,24 @@
 **Objetivos de amanhã:**
 - Fazer todo o restante das validações dos dados inseridos pelo usuário
 - Criar a sessão de estudos do app
+
+**Link do trabalho:**
+[flashcards](https://github.com/breno085/flashcards)
+
+### Dia 5: 05/07
+
+##### Flashcards
+
+**Progresso do dia:** 
+- Fiz toda a parte de validação do usuário
+- Só falta mostrar as tabelas com o spectre console para terminar o projeto
+
+**Aprendizados:** 
+- Nada novo, só progredi no projeto
+
+**Objetivos de amanhã:**
+- Terminar o projeto
+- Começar a aprender sobre consumo de API externo
 
 **Link do trabalho:**
 [flashcards](https://github.com/breno085/flashcards)
