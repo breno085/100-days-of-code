@@ -107,3 +107,23 @@
 
 **Link do trabalho:**
 [flashcards](https://github.com/breno085/flashcards)
+
+### Dia 7: 07/07
+
+##### Web API Client
+
+**Progresso do dia:** 
+- Fiz um aplicativo de console, [seguindo o tutorial da microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/tutorials/console-webapiclient), que emite solicitações HTTP para um serviço REST no GitHub. O aplicativo lê informações no formato JSON e converte o JSON em objetos C#. A conversão de objetos JSON em C# é conhecida como desserialização.
+
+**Aprendizados:** 
+- O que é API
+- O que é http request
+- Como enviar http requests usando C#
+- Desserializar respostas JSON
+- Configurar a desserialização com atributos.
+
+**Objetivos de amanhã:**
+- Fazer um projeto com consumo de API externo.
+
+**Link do trabalho:**
+[WebAPIClient](https://github.com/breno085/WebAPIClient)
