@@ -127,3 +127,48 @@
 
 **Link do trabalho:**
 [WebAPIClient](https://github.com/breno085/WebAPIClient)
+
+### Dia 8: 08/07
+
+##### Drinks Info
+
+**Progresso do dia:** 
+
+
+**Aprendizados:** 
+
+
+**Link do trabalho:**
+[Drinks Info](https://github.com/breno085/drinks-info)
+
+### Dia 9: 09/07
+
+##### Drinks Info e Curso trilha .NET - DIO
+
+**Progresso do dia:** 
+
+
+**Aprendizados:** 
+
+
+**Link do trabalho e curso:**
+[Formação .NET Developer](https://web.dio.me/track/formacao-dotnet-developer)
+[Drinks Info](https://github.com/breno085/drinks-info)
+
+### Dia 10: 10/07
+
+##### Curso trilha .NET - DIO
+
+**Progresso do dia:** 
+
+
+**Aprendizados:** 
+- Tuplas
+- Desconstrução de um Objeto (Processo inverso ao construtor de um classe)
+- Nuget Package (Gerenciador de pacotes - entendi melhor como funciona)
+- JSON
+- Serialização e Deserialização de Objetos
+- Atributos (JsonProperty())
+
+**Link do curso:**
+[Formação .NET Developer](https://web.dio.me/track/formacao-dotnet-developer)
