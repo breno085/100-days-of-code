@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log - 2024
 
+Nova regra pros #100DaysOfCode :
+- Devo passar no mínimo 3h por dia programando algum app, o tempo assistindo vídeos tutoriais não contam.
+
+
+
+
+### Recomeço - Dia 1: 14/11 (Após 4 meses meio parado):
+
+##### Calculo do IMC
+
+**Progresso do dia:** 
+- Fiz o PTI de linguagens de servidor da faculdade, que foi só fazer um simples cálculo do IMC utilizando PHP.
+
+**Aprendizados:** 
+- Syntax básica do PHP
+
+**Link do trabalho:**
+- [Calculo IMC](https://github.com/breno085/calculo-imc-php/blob/main/calculoimc.php)
+
+
+__________________________________________________________________
+## Antigo 
 ##### Construção de aplicativos de console para focar no back-end
 
 ### Dia 1: 01/07
@@ -159,8 +181,8 @@
 
 ##### Curso trilha .NET - DIO
 
-**Progresso do dia:** 
-
+**Progresso do dia:**
+- Aprendi novos conceitos e ferramentas da linguagem C#
 
 **Aprendizados:** 
 - Tuplas
@@ -172,3 +194,19 @@
 
 **Link do curso:**
 [Formação .NET Developer](https://web.dio.me/track/formacao-dotnet-developer)
+
+### Dia 11: 11/07
+
+##### Curso trilha .NET - DIO
+
+**Progresso do dia:**
+- Aprendi novos conceitos e ferramentas da linguagem C#
+
+**Aprendizados:** 
+- Tipos Especial no C# ()
+- Stack, Heap e Garbage Collector
+
+**Link do curso:**
+[Formação .NET Developer](https://web.dio.me/track/formacao-dotnet-developer)
+
+
