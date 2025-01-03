@@ -1,27 +1,25 @@
-# 100 Days Of Code - Log - 2024
+# 100 Days Of Code - Log - 2025
 
 Nova regra pros #100DaysOfCode :
 - Devo passar no mínimo 3h por dia programando algum app, o tempo assistindo vídeos tutoriais não contam.
 
+### Recomeço - Dia 1: 02/01:
 
-
-
-### Recomeço - Dia 1: 14/11 (Após 4 meses meio parado):
-
-##### Calculo do IMC
+##### MeuTodo
 
 **Progresso do dia:** 
-- Fiz o PTI de linguagens de servidor da faculdade, que foi só fazer um simples cálculo do IMC utilizando PHP.
+- Criação de API simples com ASP.NET Core, Entity Framework e Sqlite.
 
 **Aprendizados:** 
-- Syntax básica do PHP
+- Revisão do que eu já tinha visto a meses atrás de como fazer as http requests
+- Dessa vez aprendi e usei postman ao invés de swagger.
 
 **Link do trabalho:**
-- [Calculo IMC](https://github.com/breno085/calculo-imc-php/blob/main/calculoimc.php)
+- [MeuTodo](https://github.com/breno085/MeuTodo)
 
 
 __________________________________________________________________
-## Antigo 
+## Antigo - 2024
 ##### Construção de aplicativos de console para focar no back-end
 
 ### Dia 1: 01/07
